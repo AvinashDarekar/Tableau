@@ -21,7 +21,6 @@ Analyze retail data to uncover trends, customer behavior, and key performance in
 ### 5. Sales Report Week
 Create a dynamic sales report for a specific time frame, breaking down sales figures by week. Visualize sales performance, identify peak periods, and gain insights into factors influencing weekly variations in revenue.
 
-### 6. [Add More Project Titles Here]
 Continue to expand this repository with additional projects as you work on new Tableau visualizations. Provide brief descriptions for each project to guide users in understanding the focus and objectives.
 
 ## Tableau Features Used:
